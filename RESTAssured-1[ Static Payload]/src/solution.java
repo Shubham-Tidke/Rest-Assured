@@ -7,7 +7,6 @@ import static org.hamcrest.Matchers.*;
 
 import files.payload;
 public class solution {
-
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		RestAssured.baseURI= "https://rahulshettyacademy.com"; // Base URL
